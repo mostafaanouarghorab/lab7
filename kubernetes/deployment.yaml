@@ -21,7 +21,7 @@ spec:
           type: RuntimeDefault
       containers:
         - name: app
-          image: ghcr.io/owner/lab7:replace-me
+          image: ghcr.io/mostafaanouarghorab/lab7@sha256:6342112d84cd6c834920ee091bad25959cf40a682602aeeb898b18dd8db2aa5a
           ports:
             - containerPort: 8080
           securityContext:

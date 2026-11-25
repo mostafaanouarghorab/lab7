@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/OWNER/REPO.git
+    repoURL: https://github.com/mostafaanouarghorab/lab7.git
     targetRevision: main
     path: kubernetes
   destination:
